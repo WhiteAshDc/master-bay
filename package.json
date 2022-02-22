@@ -1,0 +1,19 @@
+{
+  "name": "master-bay",
+  "version": "1.0.0",
+  "description": "landing",
+  "main": "master-bay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteAshDc/master-bay.git"
+  },
+  "author": "white_ash_dc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhiteAshDc/master-bay/issues"
+  },
+  "homepage": "https://github.com/WhiteAshDc/master-bay#readme"
+}
